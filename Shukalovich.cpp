@@ -49,6 +49,7 @@ vector <vector<bool>> form_matrix(int n)
 			}
 			a.push_back(v);
 		}
+		break;
 	}
 	}
 
